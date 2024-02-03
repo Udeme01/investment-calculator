@@ -1,6 +1,6 @@
-##Investment Calculator Project
+# Investment Calculator Project
 
-#Built with react and vanilla css.
+## Built with react and vanilla css.
 
 ![Screenshot (1)](https://github.com/Udeme01/investment-calculator/assets/92237367/baba51f8-b034-498e-8971-ab7bfdf6dd8e)
 
